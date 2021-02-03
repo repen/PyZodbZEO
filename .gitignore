@@ -1,0 +1,11 @@
+__pycache__/
+.idea
+venv
+script/storage/Data*
+script/doc.md
+script/runzero.cn
+script/ssl/*[pem|cet|key]
+
+
+*.py[cod]
+*$py.class
