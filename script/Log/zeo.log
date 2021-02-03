@@ -1,5 +1,0 @@
-2021-02-03T15:04:04 (23093) opening storage '1' using FileStorage
-2021-02-03T15:04:04 StorageServer created RW with storages: 1:RW:/home/repente/prog/python/my_lib/PyZodb/script/storage/Data.fs
-2021-02-03T15:04:04 listening on ('localhost', 4110)
-2021-02-03T15:04:17 (23093) terminated by SIGTERM
-2021-02-03T15:04:17 closing storage '1'
