@@ -4,6 +4,7 @@ venv
 script/storage/Data*
 script/doc.md
 script/runzero.cn
+script/Log/zeo.log
 script/ssl/*[pem|cet|key]
 
 
