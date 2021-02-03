@@ -51,7 +51,7 @@ try:
       f"runzeo -C {conf_path}", shell=True, stdout=subprocess.PIPE, preexec_fn=os.setsid)
     output, err = proc.communicate()
     p_status = proc.wait()
-    print("Command output: " + output)
+    print("Command output: ", output)
     # while True:time.sleep(1000)
 except KeyboardInterrupt as e:
     os.killpg(proc.pid, signal.SIGTERM)
